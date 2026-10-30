@@ -64,5 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Snowball Studio Ltd. is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://infere.com/
+Snowball Studio Ltd. (Infere) provides an AI observability and prompt management platform, offering tools for LLM monitoring, evaluation, prompt optimization, and cost governance. The company delivers a web‑based interface, API access, and extensive documentation covering getting started, API reference, pricing, and privacy policies. It serves developers building AI‑driven applications, helping them track model performance, manage prompts, and ensure compliance with data regulations.
+
+**Areas:** Company · AI · Observability · PromptManagement · LLM
+
+## Snowball Studio Ltd. on APIs.io
+
+Everything profiled for Snowball Studio Ltd. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/infere/](https://apis.io/providers/infere/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Infere API](https://apis.io/apis/infere/infere-api-2/) — The Infere API is REST-based and supports all major AI operations, compatible with OpenAI API.
+- [Snowball Studio Ltd. API](https://apis.io/apis/infere/infere-api/) — Snowball Studio Ltd. API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-10-18); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostValidateTokenRequest](https://apis.io/schemas/infere/infere-post-validate-token-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Infere Context](https://apis.io/jsonld/infere/infere-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Snowball Studio Ltd. API Rules](https://apis.io/rules/infere/infere-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Infere Authentication](https://apis.io/security/infere/infere-authentication/)
+- [Infere Domain Security](https://apis.io/security/infere/infere-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Infere Plans Pricing](https://apis.io/plans/infere/infere-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://infere.com/)
+- [Documentation](https://infere.com/documentation/)
+- [Getting started](https://infere.com/documentation/getting-started/)
+- [API reference](https://infere.com/documentation/api-reference/)
+- [Pricing](https://infere.com/pricing/)
+- [Blog](https://infere.com/blog/)
+- [Terms of service](https://infere.com/legal/terms)
+- [Privacy policy](https://infere.com/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 47.2** — developing · rubric 0.24.0 · scored 2026-10-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 45.0 |
+| Contract governance | 70.9 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 60.0 |
+
+**Agent readiness 18.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/infere/](https://apis.io/providers/infere/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Snowball Studio Ltd.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/infere/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
